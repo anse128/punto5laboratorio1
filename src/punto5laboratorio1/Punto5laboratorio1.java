@@ -4,12 +4,7 @@ La nota final del curso de Desarrollo de aplicaciones móviles está dividido en
 10%, Proyecto I 15% y Proyecto Final el 25%, desarrolle un programa en java que 
 permita calcular la nota final de un estudiante del curso. Después de calcular 
 la nota final el programa imprimirá lo siguiente dependiendo de la nota:
-a. Si la nota está entre 0 y 1 imprime “Estas en el lugar equivocado”
-b. Si la nota está entre 1.1 y 2 imprime “Remal”
-c. Si la nota está entre 2.1 y 3 imprime “Es posible recuperarse”
-d. Si la nota está entre 3.1 y 4 imprime “Normalito”
-e. Si la nota está entre 4.1 y 4.5 imprime “Muy Bien”
-f. Si la nota está entre 4.6 y 5 imprime “Excelente estudiante”
+
  */
 package punto5laboratorio1;
 
